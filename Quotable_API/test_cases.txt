@@ -1,0 +1,37 @@
+1. Check Empty quotes are shown for any page number greater than totalPages   - Done
+2. Check 20 quotes are shown for any page number lesser than totalPages and validate the result
+3. Check first 20 quotes are shown for any negative page number including 0 
+
+4. Check quotes are shown for a specific author - Atleast do it with 2 author and verify it doesn't show another author quotes and verify all the pages
+5. Check Empty quotes are shown for a non existing author  - Done
+
+6. Check Empty quotes are shown for a non exisitng tags  - Done
+9. Check Empty quotes are shown because no quotes doesn't have both the tags - inspirational,love  (AND)  - Done
+11. Check Empty quotes are shown because no quotes doesn't have one of the non existing tag - inspirational,love1  (AND) (Non existing)  - Done
+7. Check quotes are shown for a specific tag value
+8. Check quotes are shown for both tags are present in any quotes (AND)
+13. Check quotes are shown for both tags are present in any quotes (OR) 
+10. Check quotes are shown for either one of the tags is present in any quotes (OR) inspirational,love1 
+12. Check empty quotes are shown for neither of the tags are not present (OR)  inspirational1,love1 - Done
+
+
+Page and author
+
+1. Check Empty quotes are shown for any page number greater than totalPages on author  - Done
+2. Check atleast 1 and atmost 20 quotes are shown for any page number lesser than totalPages on author and validate the result
+3. Check atleast 1 and atmost 20 quotes are shown for any negative page number including 0  with exist author
+4. Check Empty quotes are shown for a non existing author on page 1   - Done
+5. Check Empty quotes are shown for a non existing author on page number greater than totalPages on author  - Done
+6. Check Empty quotes are shown for any negative page number including 0  with non exist author  - Done
+
+
+Page and tags
+18
+
+
+author and tags
+12
+
+
+tags, author and pages
+
